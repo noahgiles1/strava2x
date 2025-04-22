@@ -1,2 +1,2 @@
-# zwift2x
-Sync Zwift activities to other fitness tracking services.
+# strava2x
+Sync Strava activities to other fitness tracking services.

@@ -10,12 +10,12 @@
     <relativePath/>
   </parent>
   
-  <groupId>com.noah.zwift2x</groupId>
-  <artifactId>zwift2x</artifactId>
+  <groupId>com.noah.strava2x</groupId>
+  <artifactId>strava2x</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <name>zwift2x</name>
-  <description>zwift2x</description>
+  <name>strava2x</name>
+  <description>strava2x</description>
   
   <properties>
     <java.version>24</java.version>

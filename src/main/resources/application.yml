@@ -1,5 +1,5 @@
 spring:
   application:
-    name: zwift2x
+    name: strava2x
   banner:
     location: banner.txt
